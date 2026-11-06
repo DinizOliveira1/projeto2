@@ -1,0 +1,38 @@
+/* Fundo da página (fora dos blocos div) */
+body {
+	background-color: #1f2d3d;
+	color: #f2ede3;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+/* Títulos: cor e tipo de letra */
+h1 {
+	color: #e8b04b;
+	font-family: Georgia, "Times New Roman", serif;
+	text-align: center;
+}
+
+h2 {
+	color: #e8b04b;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Cada bloco div */
+div {
+	background-color: #2c3e52;
+	margin: 20px;
+	padding: 15px;
+}
+
+/* Classe .destaque: fundo contrastante e margem personalizada */
+.destaque {
+	background-color: #e8b04b;
+	color: #1f2d3d;
+	margin: 25px 40px;
+	padding: 10px;
+}
+
+/* Hiperligação */
+a {
+	color: #8fc1e3;
+}
